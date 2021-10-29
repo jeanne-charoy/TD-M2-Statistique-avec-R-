@@ -1,5 +1,5 @@
 "# TD-M2-Statistique-avec-R" 
-# Welcome to the Stats with R course
+# Welcome to this Stats with R course
 
 This is a public repository for a "statistics with R" course (Fall 2021 semester). 
 The class requires no prior experience with R, and only limited knowledge of statistics. 
